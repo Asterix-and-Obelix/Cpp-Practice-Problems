@@ -13,6 +13,5 @@ So, the order of files opened would be "Problem" -> "Answer Here" -> "Hint" -> "
 
 Good luck! 
 
-Perfer et obdura; dolor hic tibi proderit olim.
 
 
