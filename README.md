@@ -1,2 +1,2 @@
 # C++ Practice Problems
-Created some C++ problems with solutions for students and people learning to be programmers.
+Created some C++ problems with solutions for students and people aspiring to be programmers.
