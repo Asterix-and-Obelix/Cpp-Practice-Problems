@@ -7,6 +7,6 @@ How to do these exercises:
 3. Open the "Answer Here" file.
 4. Try to solve the problem.
 5. If you get stuck, you may open the "Hint" file.
-6. Please only open the "solution" file only if you are totally stuck with the problem and cannot think of any other way to solve the code.
+6. Please only open the "Solution" file only if you are totally stuck with the problem and cannot think of any other way to solve the code.
 
 So, the order would be "Problem" -> "Answer Here" -> "Hint" -> "Solution".
