@@ -9,4 +9,10 @@ How to do these exercises:
 5. If you get stuck, you may open the "Hint" file.
 6. Please only open the "Solution" file only if you are totally stuck with the problem and cannot think of any other way to solve the code.
 
-So, the order would be "Problem" -> "Answer Here" -> "Hint" -> "Solution".
+So, the order of files opened would be "Problem" -> "Answer Here" -> "Hint" -> "Solution".
+
+Good luck! 
+
+Perfer et obdura; dolor hic tibi proderit olim.
+
+
