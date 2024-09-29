@@ -1,5 +1,5 @@
 # C++ Practice Problems
-Created some C++ problems with solutions for students and people aspiring to be programmers.
+Created some C++ problems with solutions for people learning how to code.
 * Please do the problems in an ascending order. 
 
 How to do these exercises:
